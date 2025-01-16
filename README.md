@@ -55,6 +55,7 @@ The overall sales performance for 2019 is summarized by the following KPIs:
 |Average Order Value|$185|
 |Total Products Sold|19|
 |Month-over-Month Sales Change|44.2%|
+
 (Insert visualizations: Key performance indicators displayed as cards or gauges)
 ### Analysis of Monthly Sales Trends
 December emerged as the top-performing month with the highest revenue ($4.6M), while January had the lowest revenue ($1.8M). This highlights a potential peak sales season during the holiday period in December and a slower period in January.
@@ -62,15 +63,18 @@ December emerged as the top-performing month with the highest revenue ($4.6M), w
 #### Top and Bottom Performing Months
 Top 3 Months by Revenue
 
+|---|---|
 |December|$4.6M|
 |October|$3.7M|
 |April|$3.4M|
 
 Bottom 3 Months by Revenue
 
+|---|---|
 |January|$1.8M|
 |September|$2.1M|
 |February|$2.2M|
+
 This further emphasizes the need to capitalize on peak seasons and develop strategies to improve sales during slower months.
 (Insert visualizations: Bar chart showing top and bottom performing months by revenue)
 ### Analysis of Sales by City
@@ -79,15 +83,18 @@ San Francisco generated the highest revenue ($8.3M), followed by Los Angeles ($5
 #### Top and Bottom Performing Cities
 Top 3 Cities by Revenue
 
+|---|---|
 |San Francisco|$8.3M|
 |Los Angeles|$5.5M|
 |New York City|$4.7M|
 
 Bottom 3 Cities by Revenue
 
+|---|---|
 |Austin|$1.8M|
 |Portland|$2.3M|
 |Seattle|$2.7M|
+
 This highlights the importance of focusing on high-performing cities while exploring strategies to improve sales in underperforming regions.
 (Insert visualizations: Bar chart showing top and bottom performing cities by revenue)
 ### Analysis of Product Performance
@@ -96,6 +103,7 @@ The top 5 selling products were Macbook Pro Laptop, iPhone, Thinkpad Laptop, Goo
 #### Top and Bottom Selling Products
 Top 5 Selling Products by Revenue
 
+|---|---|
 |Macbook Pro Laptop|$8,037,600|
 |iPhone|$4,794,300|
 |Thinkpad Laptop|$4,129,958.70|
@@ -104,11 +112,13 @@ Top 5 Selling Products by Revenue
 
 Bottom 5 Selling Products by Revenue
 
+|---|---|
 |AAA Batteries (4-pack)|$92,740.83|
 |AA Batteries (4-pack)|$106,118.40|
 |Wired Headphones|$246,478.43|
 |USB-C Charging Cable|$286,501.25|
 |Lightning Charging Cable|$347,095.15|
+
 This highlights the importance of understanding product-level performance and developing strategies to optimize sales across the product portfolio.
 (Insert visualizations: Table or bar chart showing top and bottom selling products by revenue)
 ## Recommendations
