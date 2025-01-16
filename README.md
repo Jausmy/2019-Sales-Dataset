@@ -63,6 +63,7 @@ December emerged as the top-performing month with the highest revenue ($4.6M), w
 #### Top and Bottom Performing Months
 Top 3 Months by Revenue
 
+|Month|Revenue|
 |---|---|
 |December|$4.6M|
 |October|$3.7M|
@@ -70,6 +71,7 @@ Top 3 Months by Revenue
 
 Bottom 3 Months by Revenue
 
+|Month|Revenue|
 |---|---|
 |January|$1.8M|
 |September|$2.1M|
@@ -83,6 +85,7 @@ San Francisco generated the highest revenue ($8.3M), followed by Los Angeles ($5
 #### Top and Bottom Performing Cities
 Top 3 Cities by Revenue
 
+|City|Revenue|
 |---|---|
 |San Francisco|$8.3M|
 |Los Angeles|$5.5M|
@@ -90,6 +93,7 @@ Top 3 Cities by Revenue
 
 Bottom 3 Cities by Revenue
 
+|City|Revenue|
 |---|---|
 |Austin|$1.8M|
 |Portland|$2.3M|
@@ -103,6 +107,7 @@ The top 5 selling products were Macbook Pro Laptop, iPhone, Thinkpad Laptop, Goo
 #### Top and Bottom Selling Products
 Top 5 Selling Products by Revenue
 
+|Product|Revenue|
 |---|---|
 |Macbook Pro Laptop|$8,037,600|
 |iPhone|$4,794,300|
@@ -112,6 +117,7 @@ Top 5 Selling Products by Revenue
 
 Bottom 5 Selling Products by Revenue
 
+|Product|Revenue|
 |---|---|
 |AAA Batteries (4-pack)|$92,740.83|
 |AA Batteries (4-pack)|$106,118.40|
