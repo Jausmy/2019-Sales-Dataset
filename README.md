@@ -4,7 +4,8 @@
 This report presents a comprehensive analysis of sales data for the year 2019, with a focus on identifying key trends, understanding product performance, and providing actionable insights to optimize sales strategies and maximize revenue. By examining monthly sales patterns, regional variations, and product-level performance, we aim to provide a data-driven foundation for informed decision-making and business growth.
 
 ## Executive Summary
-This analysis was conducted to provide a comprehensive overview of sales performance in 2019. By examining key metrics such as total revenue, average order value, monthly sales trends, and product-level performance, we identified key trends and opportunities for improvement. A key insight from the analysis is that December emerged as the top-performing month with the highest revenue, while January had the lowest (see Analysis of Monthly Sales Trends)1. Based on the analysis, we recommend capitalizing on peak sales seasons by implementing targeted marketing campaigns and promotions during high-revenue months like December, while exploring strategies to boost sales during slower months like January. By implementing these recommendations, the company can potentially increase overall sales by 10-15% and improve profitability (see Potential Impact of Recommendations).
+This analysis was conducted to provide a comprehensive overview of sales performance in 2019. By examining key metrics such as total revenue, average order value, monthly sales trends, and product-level performance, we identified key trends and opportunities for improvement. A key insight from the analysis is that December emerged as the top-performing month with the highest revenue, while January had the lowest [(see Analysis of Monthly Sales Trends)](#Analysis-of-Monthly-Sales-Trends). Based on the analysis, we recommend capitalizing on peak sales seasons by implementing targeted marketing campaigns and promotions during high-revenue months like December, while exploring strategies to boost sales during slower months like January. By implementing these recommendations, the company can potentially increase overall sales by 10-15% and improve profitability [(see Potential Impact of Recommendations)](#Potential-Impact-of-Recommendations).
+
 ## Methodology
 ### Data Sources
 The primary data source for this analysis is a sales database comprising 12 tables, each representing sales information for a corresponding month of 2019. Each table contains the following columns:
@@ -60,11 +61,13 @@ December emerged as the top-performing month with the highest revenue ($4.6M), w
 (Insert visualizations: Line chart showing monthly revenue trends)
 #### Top and Bottom Performing Months
 Top 3 Months by Revenue
+
 |December|$4.6M|
 |October|$3.7M|
 |April|$3.4M|
 
 Bottom 3 Months by Revenue
+
 |January|$1.8M|
 |September|$2.1M|
 |February|$2.2M|
@@ -75,11 +78,13 @@ San Francisco generated the highest revenue ($8.3M), followed by Los Angeles ($5
 (Insert visualizations: Map or bar chart showing sales by city)
 #### Top and Bottom Performing Cities
 Top 3 Cities by Revenue
+
 |San Francisco|$8.3M|
 |Los Angeles|$5.5M|
 |New York City|$4.7M|
 
 Bottom 3 Cities by Revenue
+
 |Austin|$1.8M|
 |Portland|$2.3M|
 |Seattle|$2.7M|
@@ -90,6 +95,7 @@ The top 5 selling products were Macbook Pro Laptop, iPhone, Thinkpad Laptop, Goo
 (Insert visualizations: Table or bar chart showing top and bottom selling products by revenue)
 #### Top and Bottom Selling Products
 Top 5 Selling Products by Revenue
+
 |Macbook Pro Laptop|$8,037,600|
 |iPhone|$4,794,300|
 |Thinkpad Laptop|$4,129,958.70|
@@ -97,11 +103,12 @@ Top 5 Selling Products by Revenue
 |27in 4K Gaming Monitor|$2,435,097.56|
 
 Bottom 5 Selling Products by Revenue
+
 |AAA Batteries (4-pack)|$92,740.83|
 |AA Batteries (4-pack)|$106,118.40|
 |Wired Headphones|$246,478.43|
 |USB-C Charging Cable|$286,501.25|
-|Lightning Charging Cable|$347,095.15\
+|Lightning Charging Cable|$347,095.15|
 This highlights the importance of understanding product-level performance and developing strategies to optimize sales across the product portfolio.
 (Insert visualizations: Table or bar chart showing top and bottom selling products by revenue)
 ## Recommendations
