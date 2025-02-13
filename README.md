@@ -1,5 +1,7 @@
 # Data Portfolio: 2019 Sales Dashboard
 
+![Project-Main-Image](Assets/Images/2019%20Sales%20Project%20Main%20Image.jpg)
+
 ## Overview
 This report presents a comprehensive analysis of sales data for the year 2019, with a focus on identifying key trends, understanding product performance, and providing actionable insights to optimize sales strategies and maximize revenue. By examining monthly sales patterns, regional variations, and product-level performance, we aim to provide a data-driven foundation for informed decision-making and business growth.
 
