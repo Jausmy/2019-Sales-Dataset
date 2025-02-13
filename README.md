@@ -18,6 +18,8 @@ The primary data source for this analysis is a sales database comprising 12 tabl
 -	Order_Date
 -	Purchase_Address
 
+![Data-Source](Assets/Images/2019%20Sales%20-%20SQL%20Database%20%2B%20Table%20Preview.png)
+
 ### Tools Used
 The following tools were used for data analysis and visualization:
 -	Microsoft SQL Server Management Studio – Used to restore the database from a backup file and for data familiarization.
@@ -31,6 +33,8 @@ The following data cleaning and preparation steps were performed using Power Que
 -	Corrected the format of the "Order_Date" column.
 -	Split the "Purchase_Address" column into separate columns for street address, city, state, and zip code.
 -	Created a calendar table with unique date values and added columns for year, month, day, and day name.
+
+![Power-Query](Assets/Images/2019%20Sales%20-%20Power%20Query.png)
 
 ### Data Exploration
 Initial data exploration involved familiarizing ourselves with the dataset and identifying key variables. This included examining the distribution of sales across different products, months, and cities.
@@ -50,6 +54,8 @@ In the future, we can leverage additional data analysis techniques to further re
 ### Overall KPIs
 The overall sales performance for 2019 is summarized by the following KPIs:
 
+![Overall-Dshboard](Assets/Images/2019%20Sales%20-%20Overall%20Dashboard.png)
+
 |KPI|Value|
 |---|---|
 |Total Revenue|$34.5M|
@@ -60,6 +66,10 @@ The overall sales performance for 2019 is summarized by the following KPIs:
 
 ### Analysis of Monthly Sales Trends
 December emerged as the top-performing month with the highest revenue ($4.6M), while January had the lowest revenue ($1.8M). This highlights a potential peak sales season during the holiday period (extended black Friday sales and Christmas sales) in December and a slower period in January due to spending fatigue.
+
+![December-Dashboard](Assets/Images/2019%20Sales%20-%20Dec%20Dashboard.png)
+
+![January-Dashboard](Assets/Images/2019%20Sales%20-%20Jan%20Dashboard.png)
 
 #### Top and Bottom Performing Months
 Top 3 Months by Revenue
@@ -77,6 +87,8 @@ Bottom 3 Months by Revenue
 |January|$1.8M|
 |September|$2.1M|
 |February|$2.2M|
+
+![Top-&-Bottom-Months](Assets/Images/2019%20Sales%20-%20Top%20%26%20Bottom%20Months.png)
 
 This further emphasizes the need to capitalize on peak seasons and develop strategies to improve sales during slower months.
 
@@ -100,6 +112,8 @@ Bottom 3 Cities by Revenue
 |Portland|$2.3M|
 |Seattle|$2.7M|
 
+![Top-&-Bottom-Cities](Assets/Images/2019%20Sales%20-%20Top%20%26%20Bottom%20Cities.png)
+
 This highlights the importance of focusing on high-performing cities while exploring strategies to improve sales in underperforming regions.
 
 ### Analysis of Product Performance
@@ -116,6 +130,8 @@ Top 5 Selling Products by Revenue
 |Google Phone|$3,319,200|
 |27in 4K Gaming Monitor|$2,435,097.56|
 
+![Top-Prods](Assets/Images/2019%20Sales%20-%20Top%20Prods.png)
+
 Bottom 5 Selling Products by Revenue
 
 |Product|Revenue|
@@ -125,6 +141,8 @@ Bottom 5 Selling Products by Revenue
 |Wired Headphones|$246,478.43|
 |USB-C Charging Cable|$286,501.25|
 |Lightning Charging Cable|$347,095.15|
+
+![Bottom-Prods](Assets/Images/2019%20Sales%20-%20Bottom%20Prods.png)
 
 This highlights the importance of understanding product-level performance and developing strategies to optimize sales across the product portfolio.
 
