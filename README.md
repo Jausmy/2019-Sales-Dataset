@@ -65,7 +65,7 @@ The overall sales performance for 2019 is summarized by the following KPIs:
 |Month-over-Month Sales Change|44.2%|
 
 ### Analysis of Monthly Sales Trends
-December emerged as the top-performing month with the highest revenue ($4.6M), while January had the lowest revenue ($1.8M). This highlights a potential peak sales season during the holiday period (extended black Friday sales and Christmas sales) in December and a slower period in January due to spending fatigue.
+December emerged as the top-performing month with the highest revenue ($4.6M), while January had the lowest revenue ($1.8M). This highlights a potential peak sales season during the holiday period (extended Black Friday sales and Christmas sales) in December and a slower period in January due to spending fatigue.
 
 ![December-Dashboard](Assets/Images/2019%20Sales%20-%20Dec%20Dashboard.png)
 
@@ -124,10 +124,10 @@ Top 5 Selling Products by Revenue
 
 |Product|Revenue|
 |---|---|
-|Macbook Pro Laptop|$8,037,600|
-|iPhone|$4,794,300|
+|Macbook Pro Laptop|$8,037,600.00|
+|iPhone|$4,794,300.00|
 |Thinkpad Laptop|$4,129,958.70|
-|Google Phone|$3,319,200|
+|Google Phone|$3,319,200.00|
 |27in 4K Gaming Monitor|$2,435,097.56|
 
 ![Top-Prods](Assets/Images/2019%20Sales%20-%20Top%20Prods.png)
